@@ -4,14 +4,14 @@
 
 ### Data Analysis 
 
-[Covid-19 Analysis: Woldwide](/sample_page)
+[Covid-19 Analysis: Woldwide](/Covid-19 Analysis Italy)
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
 <img src="images/map.png?raw=true"/>
 ---
 
-[Covid-19 Analysis: Italy](/_posts/Covid-19%20Analysis%20Italy)
+[Covid-19 Analysis: Italy](/Covid-19%20Analysis%20Italy)
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis%20Italy.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
