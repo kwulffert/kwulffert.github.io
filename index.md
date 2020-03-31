@@ -2,6 +2,12 @@
 
 ---
 
+### Machine Learning
+
+[CIML - a machine learning pipeline for analyzing CI results](https://github.com/mtreinish/ciml)
+
+---
+
 ### Data Analysis 
 
 [Covid-19 Analysis: Woldwide](/sample_page)
@@ -24,12 +30,6 @@
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
 <img src="images/books.png?raw=true"/>
-
----
-
-### Machine Learning
-
-[CIML - a machine learning pipeline for analyzing CI results](https://github.com/mtreinish/ciml)
 
 ---
 
