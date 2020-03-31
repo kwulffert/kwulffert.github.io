@@ -10,7 +10,7 @@
 
 ### Data Analysis 
 
-[Covid-19 Analysis: Woldwide](/covid19_italy.html)
+[Covid-19 Analysis: Woldwide](https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb)
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
@@ -18,7 +18,7 @@
 
 ---
 
-[Covid-19 Analysis: Italy](/covid19_italy)
+[Covid-19 Analysis: Italy](https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis%20Italy.ipynb)
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis%20Italy.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
