@@ -33,11 +33,5 @@
 
 ---
 
-## Conference Talks
-
-[Machine Learning for Continuous Integration](https://www.dropbox.com/sh/8pul23zevii3k25/AAD5ITWfOgLZPKagXiVW9jrga/avise%204%206.mov?dl=0), ODSC Europe 2019 – with Andrea Frittoli
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
