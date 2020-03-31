@@ -6,7 +6,7 @@
 
 [Covid-19 Analysis: Woldwide](https://github.com/kwulffert/kwulffert.github.io/blob/master/_posts/Covid-19%20Analysis.html)
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb">
-  <img src="images/jnb_2.svg?raw=true"/>
+  <img src="images/jnb_3.svg?raw=true"/>
 </a>
 <img src="images/map.png?raw=true"/>
 ---
