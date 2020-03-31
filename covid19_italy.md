@@ -5,14 +5,14 @@
 We define a function to get the raw data from the corresponding url and retruning it as a dataframe.
 <br>This function allows us to get the latest updates.
 
-Import the latest reports from the Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile. 
+Import the latest reports from the Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile.
 <br>There are four datasets:
 1. da_national: National data (time series).
 2. da_region: Regional data (time series).
 3. da_daily_region: Latest daily data on regional level.
 4. da_province: Province data.
 
-<br>Date of the latest data to be gathered is yesterday to ensure the data is available as the files are updated daily at midnight. 
+<br>Date of the latest data to be gathered is yesterday to ensure the data is available as the files are updated daily at midnight.
 <br>We use the date variable "ieri" to build the urls dynamically. The date format used in the Italian repository differs from the one used by the CSSE at Johns Hopkins University, this is why we need to build it.
 
 We rename the columns to translate them to English.
@@ -162,7 +162,7 @@ We rename the columns to translate them to English.
 
 
 
-## Time trends on national level 
+## Time trends on national level
 
 
 
@@ -276,16 +276,16 @@ var x = new MutationObserver(function (mutations, observer) {{
 }});
 
 // Listen for the removal of the full notebook cells
-var notebookContainer = gd.closest('#notebook-container');
+<!-- var notebookContainer = gd.closest('#notebook-container');
 if (notebookContainer) {{
     x.observe(notebookContainer, {childList: true});
-}}
+}} -->
 
 // Listen for the clearing of the current output cell
-var outputEl = gd.closest('.output');
+<!-- var outputEl = gd.closest('.output');
 if (outputEl) {{
     x.observe(outputEl, {childList: true});
-}}
+}} -->
 
                         })
                 };
@@ -296,7 +296,7 @@ if (outputEl) {{
 Summary data per country is shown if you point on each country's block.
 ### Top four regions with most active cases
 
-Lombardia is the region with the bigest share of cases of those currently active. 
+Lombardia is the region with the bigest share of cases of those currently active.
 <br>As the outbreak hit Lombardia first, the number of fatalities and recovered cases are higher, explaining the lower number of currently cases in comparison to the total of cases. As of 30.03 the number of active cases in the region is slowing down.
 <br>In the other regions, the outbreak started more recently, therefore the actual positive and total positive in those regions are very close to each other and the curve of active cases keeps growing.
 
@@ -359,5 +359,5 @@ Lombardia is the region with the bigest share of cases of those currently active
 
 
 As of 31.03, the peak of active cases is registered on 29.03.
-<br> Looking at the trends in [China and Korea](https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb), for the former the trend flattened for about five days before starting to go down; 
+<br> Looking at the trends in [China and Korea](https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb), for the former the trend flattened for about five days before starting to go down;
 <br>for the latter, there were 5 days of oscillations after the peak value until the curve started to go down steadily.  
