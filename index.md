@@ -10,7 +10,7 @@
 
 ### Data Analysis 
 
-[Covid-19 Analysis: Woldwide](/sample_page)
+[Covid-19 Analysis: Woldwide](/covid19_italy.html)
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
