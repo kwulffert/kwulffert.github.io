@@ -15,6 +15,7 @@
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
 <img src="images/map.png?raw=true"/>
+
 ---
 
 [Covid-19 Analysis: Italy](/Covid-19_Analysis_Italy.html)
