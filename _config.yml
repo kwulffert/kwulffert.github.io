@@ -1,8 +1,9 @@
 title: Kyra Wulffert # your name (or website title) here
-logo: "/images/nepal_trak-029.jpg?raw=true" # your photo (or logo) here
+logo: "/images/nepal_trek-029.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   <br>I am a data scientist and an IT solution architect with over a decade of experience working on client projects in international environments with local and remote teams.<br>
+  <br>
   <a href="https://www.linkedin.com/in/kyrawulffert/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
