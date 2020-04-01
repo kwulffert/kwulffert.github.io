@@ -9,7 +9,7 @@
 ---
 
 ### Data Analysis 
-<a href="Covid-19%20Analysis.html"Test</a>
+
 [Covid-19 Analysis: Woldwide](https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb)
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
