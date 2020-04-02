@@ -14,7 +14,9 @@
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
-<img src="images/map.png?raw=true"/>
+<br><a href="covid-19_analysis.html">
+  <img src="images/map.png?raw=true"/>
+</a>
 
 ---
 
@@ -22,7 +24,9 @@
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/covid19_italy.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
-<img src="images/Italy_reg.png?raw=true"/>
+<br><a href="covid19_italy.html">
+  <img src="images/Italy_reg.png?raw=true"/>
+</a>
 
 ---
 
@@ -30,7 +34,9 @@
 <br><a href="https://github.com/kwulffert/book-recommerder/blob/master/book-recommender.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
-<img src="images/books.png?raw=true"/>
+<br><a href="https://github.com/kwulffert/book-recommerder/blob/master/book-recommender.ipynb">
+  <img src="images/books.png?raw=true"/>
+</a>
 
 ---
 
