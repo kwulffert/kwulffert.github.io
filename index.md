@@ -19,7 +19,7 @@
 ---
 
 [Covid-19 Analysis: Italy](covid19_italy.html)
-<br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis%20Italy.ipynb">
+<br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/covid19_italy.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
 <img src="images/Italy_reg.png?raw=true"/>
