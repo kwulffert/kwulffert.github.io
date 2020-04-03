@@ -17,7 +17,7 @@
 <br><a href="covid-19_analysis.html">
   <img src="images/map.png?raw=true"/>
 </a>
-
+ 
 ---
 
 [Covid-19 Analysis: Italy](covid19_italy.html)
