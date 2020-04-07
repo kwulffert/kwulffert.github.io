@@ -6,7 +6,7 @@
 
 [CIML - a machine learning pipeline for analyzing CI results](https://github.com/mtreinish/ciml)
 <br><a href="/pdf/ciml.pdf">
-  <img src="images/icon-pdf5.svg?raw=true"/>
+  <img src="images/icon-pdf6.png?raw=true"/>
 </a>
 
 ---
