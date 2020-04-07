@@ -5,6 +5,9 @@
 ### Machine Learning
 
 [CIML - a machine learning pipeline for analyzing CI results](https://github.com/mtreinish/ciml)
+<br><a href="/pdf/ciml.pdf">
+  <img src="images/icon-pdf.png?raw=true"/>
+</a>
 
 ---
 
