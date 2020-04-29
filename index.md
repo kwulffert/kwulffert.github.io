@@ -14,7 +14,7 @@
 ### Data Analysis 
 
 [Covid-19 Analysis: Worldwide](covid-19_analysis.html)
-<br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/Covid-19%20Analysis.ipynb">
+<br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/covid-19_analysis.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
 <br><a href="covid-19_analysis.html">
