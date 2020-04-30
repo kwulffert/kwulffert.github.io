@@ -33,7 +33,7 @@
 
 ---
 
-[Book recommender based on PearsomeR correlation](https://github.com/kwulffert/book-recommerder/blob/master/book-recommender.ipynb)
+[Book recommender based on Pearson correlation](https://github.com/kwulffert/book-recommerder/blob/master/book-recommender.ipynb)
 <br><a href="https://github.com/kwulffert/book-recommerder/blob/master/book-recommender.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
