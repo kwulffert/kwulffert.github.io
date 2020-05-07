@@ -8,7 +8,10 @@
 <br><a href="/pdf/ciml.pdf">
   <img src="images/icon-pdf4.svg?raw=true"/>
 </a>
-
+<br>[NLP experiments](https://github.com/kwulffert/NLP_Projects)
+<br><a href="/pdf/ciml.pdf">
+  <img src="images/similar_words.png?raw=true"/>
+</a>
 ---
 
 ### Data Analysis 
