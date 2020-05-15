@@ -4,18 +4,21 @@
 
 ### Machine Learning
 
-[CIML - a machine learning pipeline for analyzing CI results](https://github.com/mtreinish/ciml)
-<br><a href="/pdf/ciml.pdf">
+[CIML - a machine learning pipeline for analyzing CI results](https://github.com/mtreinish/ciml) 
+<a href="/pdf/ciml.pdf">
   <img src="images/icon-pdf4.svg?raw=true"/>
 </a>
+
+---
+
 <br>[NLP experiments](https://github.com/kwulffert/NLP_Projects)
 
 ---
 
 ### Data Analysis 
 
-[Covid-19 Analysis: Worldwide](covid-19_analysis.html)
-<br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/covid-19_analysis.ipynb">
+[Covid-19 Analysis: Worldwide](covid-19_analysis.html) 
+<a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/covid-19_analysis.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
 <br><a href="covid-19_analysis.html">
@@ -24,8 +27,8 @@
  
 ---
 
-[Covid-19 Analysis: Italy](covid19_italy.html)
-<br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/covid19_italy.ipynb">
+[Covid-19 Analysis: Italy](covid19_italy.html) 
+<a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/covid19_italy.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
 <br><a href="covid19_italy.html">
@@ -34,8 +37,8 @@
 
 ---
 
-[Book recommender based on Pearson correlation](https://github.com/kwulffert/book-recommerder/blob/master/book-recommender.ipynb)
-<br><a href="https://github.com/kwulffert/book-recommerder/blob/master/book-recommender.ipynb">
+[Book recommender based on Pearson correlation](https://github.com/kwulffert/book-recommerder/blob/master/book-recommender.ipynb) 
+<a href="https://github.com/kwulffert/book-recommerder/blob/master/book-recommender.ipynb">
   <img src="images/jnb_3.svg?raw=true"/>
 </a>
 <br><a href="https://github.com/kwulffert/book-recommerder/blob/master/book-recommender.ipynb">
