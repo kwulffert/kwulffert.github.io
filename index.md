@@ -11,7 +11,7 @@
 
 ---
 
-<br>[NLP experiments](https://github.com/kwulffert/NLP_Projects)
+[NLP experiments](https://github.com/kwulffert/NLP_Projects)
 
 ---
 
