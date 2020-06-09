@@ -50,7 +50,7 @@
 ## Conference Talks
 
 [Machine Learning for CI](https://www.youtube.com/watch?v=kihanjsxJ2w), JNation 2020
-[Machine Learning for Continuous Integration](https://www.dropbox.com/sh/8pul23zevii3k25/AAD5ITWfOgLZPKagXiVW9jrga/avise%204%206.mov?dl=0), ODSC Europe 2019
+<br>[Machine Learning for Continuous Integration](https://www.dropbox.com/sh/8pul23zevii3k25/AAD5ITWfOgLZPKagXiVW9jrga/avise%204%206.mov?dl=0), ODSC Europe 2019
 
 
 ---
