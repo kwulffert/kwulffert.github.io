@@ -11,7 +11,7 @@
 
 ---
 
-[NLP experiments](https://github.com/kwulffert/NLP_Projects)
+[NLP experiments](https://nbviewer.jupyter.org/github/kwulffert/NLP_Projects/blob/master/Alices_Adventures_In_Wonderland.ipynb)
 
 ---
 
