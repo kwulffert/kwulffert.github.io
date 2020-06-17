@@ -10,7 +10,7 @@
 </a> 
 <!--[CIML Experiments](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/CIML.ipynb)--->
 <!---[CIML Predictions](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/prediction.ipynb)--->
-[CIML Metrics Report](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Metrics%20report.ipynb): Analysis of the metrics for supervised learning experiments on binary and multiple classification.
+<br>[CIML Metrics Report](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Metrics%20report.ipynb): Analysis of the metrics for supervised learning experiments on binary and multiple classification.
 <br>[CIML Clustering Experiments](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Clustering%20CIML.ipynb): Unsupervised learning on unlabled CIML data.
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Clustering%20CIML.ipynb">
   <img src="images/cluster.png?raw=true"/>
