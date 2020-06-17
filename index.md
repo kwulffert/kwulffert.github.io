@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-[CIML - a machine learning pipeline for analyzing CI results](https://github.com/mtreinish/ciml) 
+[Machine Learning for Continuous Integration CIML](https://github.com/mtreinish/ciml): A machine learning pipeline for analyzing CI results. 
 <br>[Presentation of the CIML project ](/pdf/ciml.pdf)<a href="/pdf/ciml.pdf">
   <img src="images/icon-pdf4.svg?raw=true"/>
 </a> 
