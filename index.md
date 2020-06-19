@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-[Machine Learning for Continuous Integration CIML](https://github.com/mtreinish/ciml): <br>A machine learning pipeline for analyzing CI results. 
+[Machine Learning for Continuous Integration CIML](https://github.com/kwulffert/ciml_experiments/blob/master/README.md): <br>A machine learning pipeline for analyzing CI results. 
 <br>[Presentation of the CIML project ](/pdf/ciml.pdf)<!--a href="/pdf/ciml.pdf">
   <img src="images/icon-pdf4.svg?raw=true" style="height:.8em"/>
 </a---> 
@@ -57,7 +57,7 @@
 
 ## Conference Talks
 
-[Machine Learning for CI](https://www.youtube.com/watch?v=kihanjsxJ2w), JNation 2020.
+[Machine Learning for CI](https://m.youtube.com/watch?v=UQ7TGDBwdG8&list=PLXADOFXCGUmUhRv6jXrVGIaL_MKt1yeC_&index=6&t=0s#menu), JNation 2020.
 <br>[Machine Learning for Continuous Integration](https://www.dropbox.com/sh/8pul23zevii3k25/AAD5ITWfOgLZPKagXiVW9jrga/avise%204%206.mov?dl=0), ODSC Europe 2019.
 <br>[Simulated Annealing Algorithms for Optimal Packet Scheduling in Ad Hoc Networks](https://ieeexplore.ieee.org/document/4129890), SoftCOM 2006.
 
