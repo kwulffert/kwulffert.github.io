@@ -11,7 +11,7 @@
 <br><br>[CIML Predictions](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/prediction.ipynb): <br>Training and evaluation of models.
 <br><br>[CIML Metrics Report](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Metrics%20report.ipynb): <br>Analysis of the metrics for supervised learning experiments on binary and multiple classification.
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Metrics%20report.ipynb">
-  <img src="images/matrix.png?raw=true" height="400"/>
+  <img src="images/matrix.png?raw=true" height="250"/>
 </a>
 <br><br>[CIML Clustering Experiments](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Clustering%20CIML.ipynb): <br>Unsupervised learning on unlabeled CIML data.
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Clustering%20CIML.ipynb">
