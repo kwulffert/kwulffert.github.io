@@ -8,7 +8,7 @@
 <br><br>[Presentation of the CIML project ](/pdf/ciml.pdf)<!--a href="/pdf/ciml.pdf">
   <img src="images/icon-pdf4.svg?raw=true" style="height:.8em"/>
 </a---> 
-<br><br>[CIML Predictions](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/prediction.ipynb): <br>Training and evaluation of models.
+<br><br>[CIML Predictions](https://github.com/kwulffert/ciml_experiments/blob/master/prediction.ipynb): <br>Training and evaluation of models.
 <br><br>[CIML Metrics Report](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Metrics%20report.ipynb): <br>Analysis of the metrics for supervised learning experiments on binary and multiple classification.
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Metrics%20report.ipynb">
   <img src="images/matrix.png?raw=true" height="250"/>
