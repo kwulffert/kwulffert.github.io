@@ -5,19 +5,14 @@
 ### Machine Learning
 
 [Machine Learning for Continuous Integration CIML](https://github.com/kwulffert/ciml_experiments/blob/master/README.md): <br>A machine learning pipeline for analyzing CI results. 
-
 <br>[Presentation of the CIML project ](/pdf/ciml.pdf)<!--a href="/pdf/ciml.pdf">
   <img src="images/icon-pdf4.svg?raw=true" style="height:.8em"/>
 </a---> 
-
-<br>
 <br>[CIML Predictions](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/prediction.ipynb): <br>Training and evaluation of models.
-
 <br>[CIML Metrics Report](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Metrics%20report.ipynb): <br>Analysis of the metrics for supervised learning experiments on binary and multiple classification.
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Metrics%20report.ipynb">
-  <img src="images/matrix.png?raw=true"/>
+  <img src="images/matrix.png?raw=true" height="50%"/>
 </a>
-
 <br>[CIML Clustering Experiments](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Clustering%20CIML.ipynb): <br>Unsupervised learning on unlabeled CIML data.
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Clustering%20CIML.ipynb">
   <img src="images/cluster.png?raw=true"/>
