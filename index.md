@@ -26,7 +26,7 @@
 ---
 
 #### NLP experiments:
-<br>[Sentiment analysis of US airlines tweets using ULMFiT](https://github.com/kwulffert/ULMFiT_Sentiment_Analysis/blob/master/ULMFiT_Sentiment_Analysis.ipynb)
+[Sentiment analysis of US airlines tweets using ULMFiT](https://github.com/kwulffert/ULMFiT_Sentiment_Analysis/blob/master/ULMFiT_Sentiment_Analysis.ipynb)
 <br>[Alice's adventures in wonderland](https://nbviewer.jupyter.org/github/kwulffert/NLP_Projects/blob/master/Alices_Adventures_In_Wonderland.ipynb)
 
 ---
