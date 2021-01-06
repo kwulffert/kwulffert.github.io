@@ -31,7 +31,7 @@
 
 ### Data Analysis 
 [Women of Math Destruction Hackathon Project](https://github.com/kwulffert/womenofmathdestruction):
-<br>Descriptive and predictive analysis of covid-19 related government responses for the TrueCue Women in Data Hackathon 2020
+<br>Descriptive and predictive analysis of covid-19 related government responses for the TrueCue Women in Data Hackathon 2020.
 <br><br>[TrueCue Women in Data Hackathon submission presentation](https://vimeo.com/473112297)
  
 ---
