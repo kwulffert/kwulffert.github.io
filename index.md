@@ -5,9 +5,7 @@
 ### Machine Learning
 
 [Machine Learning for Continuous Integration CIML](https://github.com/kwulffert/ciml_experiments/blob/master/README.md): <br>A machine learning pipeline for analyzing CI results. 
-<br><br>[Presentation of the CIML project ](/pdf/ciml.pdf)<!--a href="/pdf/ciml.pdf">
-  <img src="images/icon-pdf4.svg?raw=true" style="height:.8em"/>
-</a---> 
+<br><br>[Presentation of the CIML project ](/pdf/ciml.pdf)
 <br><br>[CIML Predictions](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/prediction.ipynb): <br>Training and evaluation of models.
 <br><br>[CIML Metrics Report](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Metrics%20report.ipynb): <br>Analysis of the metrics for supervised learning experiments on binary and multiple classification.
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Metrics%20report.ipynb">
@@ -32,6 +30,11 @@
 ---
 
 ### Data Analysis 
+[Women of Math Destruction Hackathon Project](https://github.com/kwulffert/womenofmathdestruction):
+<br>Descriptive and predictive analysis of covid-19 related government responses for the TrueCue Women in Data Hackathon 2020
+<br><br>[TrueCue Women in Data Hackathon submission presentation](https://vimeo.com/473112297)
+ 
+---
 
 [Covid-19 Analysis: Worldwide](covid-19_analysis.html) 
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/covid-19-analysis/blob/master/covid-19_analysis.ipynb">
