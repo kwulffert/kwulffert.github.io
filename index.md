@@ -69,7 +69,7 @@
 ## Conference Talks
 
 [Machine Learning for CI](https://youtu.be/UQ7TGDBwdG8), JNation 2020.
-<br>[Machine Learning for Continuous Integration](https://www.dropbox.com/sh/8pul23zevii3k25/AAD5ITWfOgLZPKagXiVW9jrga/avise%204%206.mov?dl=0), ODSC Europe 2019.
+<br>[Machine Learning for Continuous Integration](https://www.youtube.com/watch?v=CuaCHjow5dA), ODSC Europe 2019.
 <br>[Simulated Annealing Algorithms for Optimal Packet Scheduling in Ad Hoc Networks](https://ieeexplore.ieee.org/document/4129890), SoftCOM 2006.
 
 
