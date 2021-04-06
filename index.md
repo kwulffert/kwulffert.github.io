@@ -68,6 +68,7 @@
 
 ## Conference Talks
 
+[ML for CI](https://www.crowdcast.io/e/o4gjxatp), Women in Data Science (WiDS) as Stanford University, Bristiol 2021. 
 [Machine Learning for CI](https://youtu.be/UQ7TGDBwdG8), JNation 2020.
 <br>[Machine Learning for Continuous Integration](https://www.youtube.com/watch?v=CuaCHjow5dA), ODSC Europe 2019.
 <br>[Simulated Annealing Algorithms for Optimal Packet Scheduling in Ad Hoc Networks](https://ieeexplore.ieee.org/document/4129890), SoftCOM 2006.
