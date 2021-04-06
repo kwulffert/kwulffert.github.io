@@ -15,8 +15,8 @@
 <br><a href="https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/Clustering%20CIML.ipynb">
   <img src="images/cluster.png?raw=true"/>
 </a>
-<br><br>[CIML Interpretability](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/interpretability.ipynb)
-<br><a href="https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/interpretability.ipynb">
+<br><br>[CIML Explainability](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/explainability.ipynb)
+<br><a href="https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/explainability.ipynb">
 <img src="images/interp.png?raw=true"/>
 </a>
 <!--[CIML Experiments](https://nbviewer.jupyter.org/github/kwulffert/ciml_experiments/blob/master/CIML.ipynb)--->
